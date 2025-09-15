@@ -1,309 +1,130 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# Minimal Jekyll config for bimleshky.github.io - Focused Structure
 
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Bimlesh Kumar Yadav - Laboratory Assistant & Tech Enthusiast" # Site title
-title_separator          : "-"
-name                     : &name "Bimlesh Kumar Yadav" # Your actual name
-description              : &description "Laboratory Assistant at S.S. +2 High School Mandu | Science Education | Technical Innovation | Academic Portfolio"   # Professional description
-url                      : https://bimleshky.github.io # Your GitHub Pages URL
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bimleshky/bimleshky.github.io"
+title: "Bimlesh Kumar Yadav | Portfolio & Insights"
+description: "Lab Assistant | IISER Kolkata Alumnus | UPSC Aspirant | Science Educator"
+url: "https://bimleshky.github.io"
+baseurl: ""
+repository: "bimleshky/bimleshky.github.io"
+locale: "en-US"
+timezone: "Asia/Kolkata"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  # Biographic information
-  avatar           : "images/profile.jpg" # Add your professional photo here
-  name             : "Bimlesh Kumar Yadav"
-  pronouns         : "he/him"  
-  bio              : "Laboratory Assistant at S.S. +2 High School Mandu | Passionate about Science Education & Technology | Dedicated to innovative teaching methodologies"
-  location         : "Mandu, Madhya Pradesh, India"
-  employer         : "S.S. +2 High School Mandu"
-  uri              : # Personal website URL if any
-  email            : "bimleshky@gmail.com" # Update with your actual email
+  name: "Bimlesh Kumar Yadav"
+  email: "bimleshky@gmail.com"
+  linkedin: "bimlesh-kumar-yadav"
+  github: "bimleshky"
 
-  # Academic websites
-  academia         : # URL to Academia.edu profile
-  arxiv            : # URL to ArXiv profile
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_ID" - Add when you have publications
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : # "http://orcid.org/YOUR-ORCID-ID" - Recommended for academics
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL to ResearchGate profile
-  scopus           : # URL
+# Navigation structure for main sections
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about/"
+  - title: "Academic & Professional Journey"
+    url: "/journey/"
+  - title: "UPSC Journey"
+    url: "/upsc/"
+  - title: "Portfolio / Projects"
+    url: "/portfolio/"
+  - title: "Teaching Resources"
+    url: "/resources/"
+  - title: "Blog / Insights"
+    url: "/blog/"
+  - title: "Highlights & Achievements"
+    url: "/achievements/"
+  - title: "UPSC Resources"
+    url: "/upsc-resources/"
+  - title: "Contact / Connect"
+    url: "/contact/"
 
-  # Repositories and software development
-  bitbucket        : # Username
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "bimleshky"
-  kaggle           : # Username for data science projects
-  stackoverflow    : # User number - great for technical Q&A
-
-  # Social media - Professional networking
-  artstation       : # Username
-  bluesky          : # "username.bsky.social" 
-  facebook         : # Username - consider professional page
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username - great for educators
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # "bimlesh-kumar-yadav" - Highly recommended for professionals
-  mastodon         : # URL
-  medium           : # URL - great for educational blog posts
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username - great for educational content sharing
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username - excellent for educational videos
-  zhihu            : # Username
-
-# Publication Category - Enhanced for your academic work
-publication_category:
-  educational_resources:
-    title: 'Educational Resources'
-  laboratory_guides:
-    title: 'Laboratory Guides & Manuals'
-  research_papers:
-    title: 'Research Papers'    
-  conference_presentations:
-    title: 'Conference Presentations'
-  workshops:
-    title: 'Workshops & Training Materials'
-
-# Site Settings - Optimized for your content
-teaser                   : "images/lab-teaser.jpg" # Default image for social media
-breadcrumbs              : true # Enable for better navigation
-words_per_minute         : 160
-future                   : true
-read_more                : "enabled" # Enable read more links
-talkmap_link             : true # Enable talk map on talks page
-comments:
-  provider               : "disqus" # Enable comments for blog engagement
-  disqus:
-    shortname            : "bimleshky-portfolio" # Create Disqus account and add shortname
-  
-# Analytics - Track your site visitors
-analytics:
-  provider               : "google-analytics-4" # Enable GA4
-  google:
-    tracking_id          : # "G-XXXXXXXXXX" - Add your GA4 tracking ID
-
-# SEO Related - Improve search engine visibility
-google_site_verification : # Add Google Search Console verification code
-bing_site_verification   : # Add Bing webmaster verification
-yandex_site_verification : # Add Yandex verification
-
-# Social Sharing - Enhanced for educational content
-twitter:
-  username               : # Your Twitter handle
-facebook:
-  username               : # Your Facebook page
-og_image                 : "images/social-preview.jpg" # Create a professional preview image
-og_description           : "Laboratory Assistant and Science Educator passionate about innovative teaching methods and technology integration in education"
-
-# Enhanced Collections for your content
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
-  talks:
+    permalink: /portfolio/:path/
+  resources:
     output: true
-    permalink: /:collection/:path/
-  lab-experiments:
+    permalink: /resources/:path/
+  blog:
     output: true
-    permalink: /:collection/:path/
-  educational-tools:
+    permalink: /blog/:path/
+  achievements:
     output: true
-    permalink: /:collection/:path/
+    permalink: /achievements/:path/
+  upsc-resources:
+    output: true
+    permalink: /upsc-resources/:path/
 
-# Enhanced defaults for different content types
 defaults:
-  # _posts (Blog posts)
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      toc: true
-      toc_sticky: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-      toc: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _talks
   - scope:
       path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-  # _lab-experiments (New collection for your lab work)
-  - scope:
-      path: ""
-      type: lab-experiments
+      type: resources
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-      toc: true
-  # _educational-tools (New collection for tools and resources)
   - scope:
       path: ""
-      type: educational-tools
+      type: blog
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+  - scope:
+      path: ""
+      type: achievements
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: upsc-resources
+    values:
+      layout: single
+      author_profile: true
 
-# Plugins - Enhanced functionality
+# Plugins for essential functionality
 plugins:
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - local
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+# Include these folders for content
+include:
+  - _portfolio
+  - _resources
+  - _blog
+  - _achievements
+  - _upsc-resources
+  - _pages
 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed
+# Exclude unnecessary files/folders
+exclude:
+  - node_modules
+  - vendor
+  - tmp
+  - .sass-cache
+  - .jekyll-assets-cache
+  - .github
 
-# Outputting
 permalink: /:categories/:title/
-timezone: Asia/Kolkata # Set to Indian timezone
 
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Social media/contact - for sidebar/footer/contact page
+contact_links:
+  email: "bimleshky@gmail.com"
+  linkedin: "https://linkedin.com/in/bimlesh-kumar-yadav"
+  github: "https://github.com/bimleshky"
 
-# HTML Compression
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# Custom - call-to-action/contact form can be implemented in /contact/ page
