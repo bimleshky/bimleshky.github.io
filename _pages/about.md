@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to My Academic Portfolio"
-excerpt: "Laboratory Assistant | Science Educator | Technology Enthusiast"
+excerpt: "Laboratory Assistant | Aspiring Civil Servant | Science & Education Enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,33 +12,35 @@ redirect_from:
 
 # Hello, I'm Bimlesh Kumar Yadav! 👋
 
-I'm a dedicated **Laboratory Assistant** at S.S. +2 High School Mandu, passionate about bridging the gap between theoretical science and practical application. With a deep commitment to science education and innovative teaching methodologies, I strive to inspire the next generation of scientists and learners.
+I’m currently serving as a **Laboratory Assistant in Biology** at *S.S. +2 High School, Mandu*, where I contribute to nurturing curiosity and scientific temperament among students.  
+
+With a strong academic foundation as a **former BS-MS student in Chemistry at IISER Kolkata**, I combine my passion for science with a commitment to education and public service. Alongside my professional role, I am diligently **preparing for the UPSC Civil Services Examination (IAS)**, with the aim of contributing to society through knowledge, integrity, and service.
 
 <div class="highlight-box">
-<strong>🔬 My Mission:</strong> To make science accessible, engaging, and meaningful for every student through hands-on laboratory experiences and innovative educational approaches.
+<strong>🌍 My Vision:</strong> To inspire young minds through science education today and serve society at large tomorrow through public administration.
 </div>
+
+---
 
 ## What I Do
 
-### 🧪 Laboratory Management & Safety
-- Maintain and organize laboratory equipment and chemicals
-- Ensure safety protocols and proper laboratory procedures
-- Assist students in conducting experiments safely and effectively
-- Develop and maintain laboratory inventory systems
+### 🧪 Laboratory & Science Education
+- Manage, organize, and maintain laboratory equipment and chemicals  
+- Ensure safety compliance and hands-on learning experiences  
+- Support teachers in delivering engaging experiments and demonstrations  
+- Guide students in applying the **scientific method** to real-world problems  
 
-### 👨‍🏫 Science Education Support
-- Support teachers in delivering engaging practical lessons
-- Develop innovative laboratory exercises and demonstrations
-- Create educational resources and laboratory guides
-- Foster scientific thinking and methodology among students
+### 💻 Technology & Innovation
+- Integrate digital tools into science learning  
+- Develop online resources and lab manuals for students  
+- Explore educational technology to simplify complex concepts  
 
-### 💻 Technology Integration
-- Integrate digital tools and technology in laboratory settings
-- Develop online resources for remote learning
-- Create educational content using modern platforms
-- Explore innovative ways to enhance science education through technology
+### 🎯 Student & Community Development
+- Mentor students in practical skills and scientific inquiry  
+- Encourage innovation through science fairs and competitions  
+- Advocate for accessible, eco-friendly, and inclusive education  
 
-</div>
+---
 
 <div class="stats-grid">
   <div class="stat-card">
@@ -47,11 +49,11 @@ I'm a dedicated **Laboratory Assistant** at S.S. +2 High School Mandu, passionat
   </div>
   <div class="stat-card">
     <span class="stat-number">500+</span>
-    <span class="stat-label">Students Assisted</span>
+    <span class="stat-label">Students Guided</span>
   </div>
   <div class="stat-card">
     <span class="stat-number">50+</span>
-    <span class="stat-label">Experiments Managed</span>
+    <span class="stat-label">Experiments Conducted</span>
   </div>
   <div class="stat-card">
     <span class="stat-number">100%</span>
@@ -59,88 +61,90 @@ I'm a dedicated **Laboratory Assistant** at S.S. +2 High School Mandu, passionat
   </div>
 </div>
 
+---
+
 ## My Areas of Expertise
 
 <div class="slide-in">
 
 ### 🔬 **Laboratory Sciences**
-- Chemistry laboratory procedures and safety
-- Biology specimen preparation and microscopy
-- Physics experimental setups and demonstrations
-- Laboratory equipment maintenance and calibration
+- Chemistry & Biology lab procedures  
+- Specimen preparation and microscopy  
+- Physics demonstrations & apparatus handling  
+- Lab equipment maintenance & calibration  
 
 ### 📚 **Educational Technology**
-- Digital laboratory simulations
-- Online learning platform integration
-- Educational content creation
-- Virtual experiment design
+- Digital simulations & e-learning tools  
+- Educational content design  
+- Virtual lab and experiment models  
 
-### 🎯 **Student Development**
-- Practical skills training
-- Scientific method instruction
-- Safety awareness programs
-- Career guidance in science fields
-
-### 🌱 **Continuous Learning**
-- Modern teaching methodologies
-- Educational technology trends
-- Laboratory innovation
-- Professional development in science education
+### 🌱 **Continuous Growth**
+- Modern teaching methodologies  
+- Sustainability in laboratory practices  
+- Professional development in science education  
+- Public policy awareness through UPSC preparation  
 
 </div>
 
+---
+
 ## Recent Highlights
 
-### 🏆 **Professional Achievements**
-- Successfully implemented new safety protocols in the school laboratory
-- Developed comprehensive laboratory guides for multiple science subjects
-- Assisted in organizing inter-school science competitions
-- Contributed to improving laboratory efficiency by 30%
+### 🏆 **Achievements**
+- Implemented modern safety protocols in the school lab  
+- Authored comprehensive laboratory guides for students  
+- Organized inter-school science activities and competitions  
+- Enhanced lab efficiency and accessibility  
 
-### 📖 **Current Focus Areas**
-- **Digital Laboratory Tools**: Exploring virtual and augmented reality applications in science education
-- **Sustainable Practices**: Implementing eco-friendly laboratory procedures
-- **Student Engagement**: Developing innovative ways to make science more accessible
-- **Professional Growth**: Pursuing advanced certifications in laboratory management
+### 📖 **Current Focus**
+- **Digital Tools in Education**: AR/VR for science learning  
+- **UPSC Preparation**: Integrating scientific insight with governance  
+- **Sustainable Labs**: Eco-friendly, low-waste lab management  
+- **Student Mentorship**: Bridging science learning with real-life applications  
+
+---
 
 ## Connect With Me
 
-I'm always excited to connect with fellow educators, students, and science enthusiasts. Whether you're interested in:
-- Laboratory best practices and safety procedures
-- Educational technology integration
-- Science teaching methodologies
-- Professional collaboration opportunities
+I’m eager to collaborate with educators, students, and professionals in both **science education** and **public policy**.  
 
-Feel free to reach out through any of the social media links in the sidebar, or explore my blog for insights on laboratory management, science education, and educational technology.
+Let’s connect if you are interested in:  
+- Laboratory management & best practices  
+- Education technology integration  
+- UPSC/IAS preparation and guidance  
+- Collaborations in teaching or research  
 
 ---
 
 <div class="highlight-box">
-<strong>🌟 "Education is the most powerful weapon which you can use to change the world."</strong> - Nelson Mandela
+<strong>🌟 "Education is the most powerful weapon which you can use to change the world."</strong> – Nelson Mandela  
 <br><br>
-This quote drives my commitment to excellence in science education and my dedication to providing students with the best possible laboratory learning experiences.
+This quote guides my dual journey: as a **science educator** shaping young minds today and as an **aspiring civil servant** preparing to serve society tomorrow.
 </div>
-
-## What You'll Find Here
-
-### 📝 [Blog Posts](/posts/)
-Insights on laboratory management, science education trends, educational technology, and professional development.
-
-### 🎓 [Teaching Resources](/teaching/)
-Laboratory guides, safety protocols, experimental procedures, and educational materials I've developed.
-
-### 💼 [Portfolio](/portfolio/)
-Showcase of projects, innovations, and contributions to science education and laboratory management.
-
-### 🎤 [Talks & Presentations](/talks/)
-Information about workshops, presentations, and professional development sessions I've conducted or participated in.
-
-### 🔬 [Laboratory Experiments](/lab-experiments/)
-Detailed guides and protocols for various laboratory experiments across different science subjects.
-
-### 🛠️ [Educational Tools](/educational-tools/)
-Digital tools, resources, and innovative solutions I've developed for enhanced science education.
 
 ---
 
-*Thank you for visiting my academic portfolio. I look forward to sharing my journey in science education and connecting with the global community of educators and learners!*
+## Explore My Work
+
+### 📝 [Blog Posts](/posts/)
+Reflections on science education, UPSC preparation, and personal insights.  
+
+### 🎓 [Teaching Resources](/teaching/)  
+Laboratory guides, safety manuals, and experiment protocols.  
+
+### 💼 [Portfolio](/portfolio/)  
+Projects, innovations, and academic contributions.  
+
+### 🎤 [Talks & Presentations](/talks/)  
+Workshops, lectures, and knowledge-sharing sessions.  
+
+### 🔬 [Laboratory Experiments](/lab-experiments/)  
+Step-by-step experiment guides across science disciplines.  
+
+### 🛠️ [Educational Tools](/educational-tools/)  
+Digital learning aids and interactive resources.  
+
+---
+
+*Thank you for visiting my portfolio. I look forward to building bridges between **science, education, and public service**.*  
+</div>
