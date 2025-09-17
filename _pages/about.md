@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Academic Portfolio"
+title: "Bimlesh Kumar Yadav | Academic Portfolio"
 excerpt: "Laboratory Assistant | Aspiring Civil Servant | Science & Education Enthusiast"
 author_profile: true
 redirect_from: 
@@ -8,143 +8,60 @@ redirect_from:
   - /about.html
 ---
 
-<div class="fade-in">
+# Bimlesh Kumar Yadav  
+*Laboratory Assistant | Aspiring Civil Servant | Science & Education Enthusiast*
 
-# Hello, I'm Bimlesh Kumar Yadav! 👋
-
-I’m currently serving as a **Laboratory Assistant in Biology** at *S.S. +2 High School, Mandu*, where I contribute to nurturing curiosity and scientific temperament among students.  
-
-With a strong academic foundation as a **former BS-MS student in Chemistry at IISER Kolkata**, I combine my passion for science with a commitment to education and public service. Alongside my professional role, I am diligently **preparing for the UPSC Civil Services Examination (IAS)**, with the aim of contributing to society through knowledge, integrity, and service.
-
-<div class="highlight-box">
-<strong>🌍 My Vision:</strong> To inspire young minds through science education today and serve society at large tomorrow through public administration.
-</div>
+> 🌍 *Inspiring young minds through science today, preparing to serve society through public administration tomorrow.*
 
 ---
 
-## What I Do
+## About Me  
+I am currently serving as a **Laboratory Assistant in Biology** at *S.S. +2 High School, Mandu*.  
+Previously, I pursued the **BS-MS program in Chemistry at IISER Kolkata**, which strengthened my academic foundation in science.  
 
-### 🧪 Laboratory & Science Education
-- Manage, organize, and maintain laboratory equipment and chemicals  
-- Ensure safety compliance and hands-on learning experiences  
-- Support teachers in delivering engaging experiments and demonstrations  
-- Guide students in applying the **scientific method** to real-world problems  
-
-### 💻 Technology & Innovation
-- Integrate digital tools into science learning  
-- Develop online resources and lab manuals for students  
-- Explore educational technology to simplify complex concepts  
-
-### 🎯 Student & Community Development
-- Mentor students in practical skills and scientific inquiry  
-- Encourage innovation through science fairs and competitions  
-- Advocate for accessible, eco-friendly, and inclusive education  
+Alongside my professional role, I am preparing for the **UPSC Civil Services Examination (IAS)**, aiming to integrate knowledge, integrity, and public service in nation-building.
 
 ---
 
-<div class="stats-grid">
-  <div class="stat-card">
-    <span class="stat-number">5+</span>
-    <span class="stat-label">Years of Experience</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">500+</span>
-    <span class="stat-label">Students Guided</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">50+</span>
-    <span class="stat-label">Experiments Conducted</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">100%</span>
-    <span class="stat-label">Safety Record</span>
-  </div>
-</div>
+## What I Do  
+
+- **Laboratory & Science Education**: Organizing experiments, maintaining lab resources, and promoting inquiry-based learning.  
+- **Technology in Education**: Using digital tools and resources to simplify complex concepts.  
+- **Student Development**: Guiding students in practical skills, science fairs, and competitions.  
 
 ---
 
-## My Areas of Expertise
+## Areas of Expertise  
 
-<div class="slide-in">
-
-### 🔬 **Laboratory Sciences**
-- Chemistry & Biology lab procedures  
-- Specimen preparation and microscopy  
-- Physics demonstrations & apparatus handling  
-- Lab equipment maintenance & calibration  
-
-### 📚 **Educational Technology**
-- Digital simulations & e-learning tools  
-- Educational content design  
-- Virtual lab and experiment models  
-
-### 🌱 **Continuous Growth**
-- Modern teaching methodologies  
-- Sustainability in laboratory practices  
-- Professional development in science education  
-- Public policy awareness through UPSC preparation  
-
-</div>
+- **Laboratory Sciences**: Chemistry & Biology procedures, microscopy, safety protocols.  
+- **Educational Tools**: Lab manuals, digital simulations, e-learning resources.  
+- **Public Service Preparation**: Awareness of governance, policy, and education reforms.  
 
 ---
 
-## Recent Highlights
+## Recent Work  
 
-### 🏆 **Achievements**
-- Implemented modern safety protocols in the school lab  
-- Authored comprehensive laboratory guides for students  
-- Organized inter-school science activities and competitions  
-- Enhanced lab efficiency and accessibility  
-
-### 📖 **Current Focus**
-- **Digital Tools in Education**: AR/VR for science learning  
-- **UPSC Preparation**: Integrating scientific insight with governance  
-- **Sustainable Labs**: Eco-friendly, low-waste lab management  
-- **Student Mentorship**: Bridging science learning with real-life applications  
+- Implemented safety protocols in the school laboratory.  
+- Developed concise laboratory guides for students.  
+- Organized inter-school science activities.  
+- Exploring **sustainable lab practices** and **digital learning tools**.  
 
 ---
 
-## Connect With Me
+## Connect With Me  
 
-I’m eager to collaborate with educators, students, and professionals in both **science education** and **public policy**.  
-
-Let’s connect if you are interested in:  
-- Laboratory management & best practices  
-- Education technology integration  
-- UPSC/IAS preparation and guidance  
-- Collaborations in teaching or research  
+I welcome collaboration in:  
+- Science education and laboratory management  
+- Educational technology projects  
+- Student mentorship & guidance  
+- Public policy discussions (UPSC/IAS prep)  
 
 ---
 
-<div class="highlight-box">
-<strong>🌟 "Education is the most powerful weapon which you can use to change the world."</strong> – Nelson Mandela  
-<br><br>
-This quote guides my dual journey: as a **science educator** shaping young minds today and as an **aspiring civil servant** preparing to serve society tomorrow.
-</div>
+## Explore  
+
+[📖 Blog](/posts/) • [🎓 Teaching Resources](/teaching/) • [💼 Portfolio](/portfolio/) • [🎤 Talks](/talks/) • [🔬 Experiments](/lab-experiments/) • [🛠️ Tools](/educational-tools/)  
 
 ---
 
-## Explore My Work
-
-### 📝 [Blog Posts](/posts/)
-Reflections on science education, UPSC preparation, and personal insights.  
-
-### 🎓 [Teaching Resources](/teaching/)  
-Laboratory guides, safety manuals, and experiment protocols.  
-
-### 💼 [Portfolio](/portfolio/)  
-Projects, innovations, and academic contributions.  
-
-### 🎤 [Talks & Presentations](/talks/)  
-Workshops, lectures, and knowledge-sharing sessions.  
-
-### 🔬 [Laboratory Experiments](/lab-experiments/)  
-Step-by-step experiment guides across science disciplines.  
-
-### 🛠️ [Educational Tools](/educational-tools/)  
-Digital learning aids and interactive resources.  
-
----
-
-*Thank you for visiting my portfolio. I look forward to building bridges between **science, education, and public service**.*  
-</div>
+*"Education is the most powerful weapon which you can use to change the world."* – Nelson Mandela
