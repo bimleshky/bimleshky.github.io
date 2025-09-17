@@ -14,9 +14,7 @@ redirect_from:
 
 ## About Me  
 I am currently serving as a **Laboratory Assistant in Biology** at *S.S. +2 High School, Mandu*.  
-Previously, I pursued the **BS-MS program in Chemistry at IISER Kolkata**, which strengthened my academic foundation in science.  
-
-Alongside my professional role, I am preparing for the **UPSC Civil Services Examination (IAS)**, aiming to integrate knowledge, integrity, and public service in nation-building.
+Previously, I pursued the **BS-MS program in Chemistry at IISER Kolkata**, which strengthened my academic foundation in science.
 
 ---
 
