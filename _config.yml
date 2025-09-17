@@ -11,7 +11,7 @@ title                    : "Bimlesh Kumar Yadav"
 title_separator          : "-"
 name                     : &name "Bimlesh Kumar Yadav"
 description              : &description "personal description"
-url                      : https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bimleshky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bimleshky.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bimlesh Yadav"
-  avatar           : "profile_pic_bky.JPG"
+  avatar           : "profile_pic_bky.PNG"
   bio              : "Educator, Physics enthusiast, Movies."
   location         : "Ranchi, Jharkhand"
   employer         : 
