@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 - **M.S. in Chemical Sciences**, IISER Kolkata — *2022*  
-- **B.S. in Chemical Sciences (PCM)**, IISER Kolkata — *2020*  
+- **B.S. in Chemical Sciences**, IISER Kolkata — *2020*  
 
 # Work Experience
 - **Lab Assistant (Biology)** — *Dec 2023–Present*  
