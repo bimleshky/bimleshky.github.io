@@ -15,7 +15,7 @@ redirect_from:
 
 # Work Experience
 - **Lab Assistant (Biology)** — *Dec 2023–Present*  
-  *S.S. +2 High School, Ramgarh*  
+  S.S. +2 High School, Ramgarh  
 
 # Skills
 - Laboratory Techniques  
