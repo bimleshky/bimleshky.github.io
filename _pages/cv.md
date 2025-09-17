@@ -9,36 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 - **M.S. in Chemical Sciences**, IISER Kolkata — *2022*  
 - **B.S. in Chemical Sciences (PCM)**, IISER Kolkata — *2020*  
 
-Work experience
-======
+# Work Experience
 - **Lab Assistant (Biology)** — *Dec 2023–Present*  
   *S.S. +2 High School, Ramgarh*  
-  
-Skills
-======
+
+# Skills
 - Laboratory Techniques  
 - Data Analysis  
 - GIS & Remote Sensing Basics  
 - Teaching & Mentoring  
 - Scientific Writing  
 
-Favorite Books  
-======
-- The Feynman Lectures on Physics
+# Favorite Books
+- *The Feynman Lectures on Physics*  
 
-Teaching
-======
-  - Maths
-  - Physics
-  - Biology
-   
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Teaching
+- Mathematics  
+- Physics  
+- Biology  
+
+# Service & Leadership
+- Volunteering in academic and community activities  
