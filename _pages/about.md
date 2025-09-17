@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Bimlesh Kumar Yadav  
-*Laboratory Assistant | Aspiring Civil Servant | Science & Education Enthusiast*
-
 > 🌍 *Inspiring young minds through science today, preparing to serve society through public administration tomorrow.*
 
 ---
