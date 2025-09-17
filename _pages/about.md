@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bimlesh Kumar Yadav | Academic Portfolio"
+title: "Bimlesh Kumar Yadav"
 excerpt: "Laboratory Assistant | Aspiring Civil Servant | Science & Education Enthusiast"
 author_profile: true
 redirect_from: 
